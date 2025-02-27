@@ -1,7 +1,4 @@
-## Challenger Alura
-
-
-<h2 align="center">Jogo do Número Secreto</h2> 
+<h1 align="center">Challenger Alura</h1>
 <h4 align="center">Challenger Mini Game Alura</h4>
 
 <h2>Sobre</h2>
