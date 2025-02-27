@@ -1,6 +1,6 @@
 
 <h2 align="center">Jogo do Número Secreto</h2> 
-<h6 align="center">Challenger Mini Game Alura</h6>
+<h4 align="center">Challenger Mini Game Alura</h4>
 
 <h2>Sobre</h2>
 <p>Projeto utilizado nos cursos de lógica de programação da Alura.</p>
