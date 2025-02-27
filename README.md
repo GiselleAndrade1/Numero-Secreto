@@ -1,4 +1,5 @@
-# <p align="center">Número Secreto - Challenger Mini Game</p>
+# <p align="center">Número Secreto</p>
+## <p align="center">Challenger Mini Game Alura</p>
 
 <h2>Sobre</h2>
 <p>Projeto utilizado nos cursos de lógica de programação da Alura.</p>
