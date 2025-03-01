@@ -1,6 +1,4 @@
-<h1 align="center">Challenger Alura</h1>
-
-# <p align="center">Jogo do Número Secreto</p>
+<h1 align="center">Challenger Alura</h1> <br> # <p align="center">Jogo do Número Secreto</p>
 <h4 align="center">Challenger Mini Game Alura</h4>
 
 <h2>Sobre</h2>
