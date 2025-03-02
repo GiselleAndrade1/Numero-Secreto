@@ -1,5 +1,4 @@
-<h1 align="center">Jogo do Número Secreto</h1>
-<h4 align="center">1° Challenger do Alura</h4>
+<h1 align="center">Jogo do Número Secreto</h1><h4 align="center">1° Challenger do Alura</h4>
 
 <h2>Sobre</h2>
 <p>Projeto utilizado nos cursos de lógica de programação da Alura.</p>
